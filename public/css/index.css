@@ -7,9 +7,9 @@
 
 body {
     display: flex;
-    justify-content: center; /* horizontal center */
-    align-items: center; /* vertical center */
-    min-height: 100vh; /* tinggi minimum 100% layar */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
     padding: 20px;
 }
 
