@@ -13,10 +13,10 @@
 </head>
 <body>
 
-<h1 style="margin-bottom:20px; text-align:center;">Students Card</h1>
+
 
 <div class="content">
- 
+<h1 style="margin-bottom:20px; text-align:center;">Students Card</h1> 
     @foreach($students as $student)
 <div class="card">
 <div class="card-1">

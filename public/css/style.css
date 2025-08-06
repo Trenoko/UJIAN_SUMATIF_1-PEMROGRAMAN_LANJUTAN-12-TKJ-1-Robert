@@ -6,7 +6,11 @@
 }
  
 body {
-    padding:20px;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
  
 img {
@@ -39,7 +43,7 @@ img {
 }
  
 button {
-    padding:15px ;
+    padding:15px ;  
     border-radius: 10px;
     border:none;
 }
